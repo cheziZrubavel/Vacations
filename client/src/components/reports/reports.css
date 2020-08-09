@@ -1,0 +1,19 @@
+.graphDiv {
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+}
+
+.logoutBtn{
+    position: absolute;
+    right: 5%;
+    top: 5%;
+    background-color: royalblue;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    font-size: 0.8rem;
+    line-height: 1;
+    cursor: pointer;
+}
